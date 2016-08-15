@@ -39,7 +39,8 @@ The team leader have to resolve a Pluzze problem and the rest of slaves have to 
 CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
 Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
 
-****
+_
+====
 ### Some Handy Links
 
 [CakePHP](http://www.cakephp.org) - The rapid development PHP framework
@@ -52,7 +53,8 @@ Our primary goal is to provide a structured framework that enables PHP users at 
 [CakeFest](http://cakefest.org) - Don't miss our annual CakePHP conference
 [Cake Software Foundation](http://cakefoundation.org) - Promoting development related to CakePHP
 
-****
+_
+====
 ### Get Support!
 
 [#cakephp](http://webchat.freenode.net/?channels=#cakephp) on irc.freenode.net - Come chat with us, we have cake
@@ -60,7 +62,8 @@ Our primary goal is to provide a structured framework that enables PHP users at 
 [GitHub Issues](https://github.com/cakephp/cakephp/issues) - Got issues? Please tell us!
 [Roadmaps](https://github.com/cakephp/cakephp/wiki#roadmaps) - Want to contribute? Get involved!
 
-****
+_
+====
 ### Contributing
 
 [CONTRIBUTING.md](CONTRIBUTING.md) - Quick pointers for contributing to the CakePHP project
