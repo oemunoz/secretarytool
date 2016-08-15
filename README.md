@@ -21,14 +21,25 @@ The team have to resolve problems by Rol.
  - Develop (**DV**).
  - Tester (**TT**).
 
- _
- ====
+_
+====
 ### Bidding Projects (**BP**)
 
 The team leader have to resolve a Pluzze problem and the rest of slaves have to work by rol like **IP**.
   - Analist (**AN**).
   - Develop (**DV**).
   - Tester (**TT**).
+
+----
+### Requeriments
+
+|	Name	|	Notes	|	Version	|	Author	|	Created Date	|	Priority	|	Stereotype	|	Status	|
+|	:-------------	|	:-------------	|	:-------------	|	:-------------	|	:-------------	|	:-------------	|	:-------------	|	:-------------	|
+|	REQ00_00 GENERAL OVERVIEW - SECRETARYTOOL	|	Employing a general tool for manage the simulated develop system.	|	1	|	oscar	|	06-Aug-2016 7:29:28 AM	|	Medium	|	Functional	|	Proposed	|
+|	REQ01_00 MANAGE USERS	|	Administrate (Add, Modify,"Delete" and Report) users, and his corresponding certification data. 	|	1	|	oscar	|	06-Aug-2016 7:30:48 AM	|	Medium	|	Functional	|	Proposed	|
+|	REQ02_00 MANAGE COMPANIES CERTIFICATIONS	|	Administrate (Add, Modify, "Delete" and Report) companies, and their certification data.	|	1	|	oscar	|	06-Aug-2016 7:37:12 AM	|	Medium	|	Functional	|	Proposed	|
+|	REQ03_00 MANAGE QUESTIONS	|	Administrate (Add,Modify,"Delete" and Report) particular or set of test and pools of questions. 	|	1	|	oscar	|	06-Aug-2016 7:45:26 AM	|	Medium	|	Functional	|	Proposed	|
+|	REQ04_00 RUN TEST	|	Follow a required set of Test.	|	1	|	oscar	|	10-Aug-2016 7:13:33 AM	|	Medium	|	Functional	|	Proposed	|
 
 ----
 ## CakePHP
