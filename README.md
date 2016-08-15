@@ -32,7 +32,7 @@ The team leader have to resolve a Pluzze problem and the rest of slaves have to 
 
 ----
 ### General Funcional Requeriments
-<sub>
+
 |	Name	|	Description	|
 |	:-------------	|	:-------------	|
 |	REQ00_00 	|	GENERAL OVERVIEW - SECRETARYTOOL	|
@@ -41,7 +41,6 @@ The team leader have to resolve a Pluzze problem and the rest of slaves have to 
 |	REQ03_00 	|	MANAGE QUESTIONS	|
 |	REQ04_00 	|	RUN TEST	|
 
-</sub>
 
 ----
 ## CakePHP
