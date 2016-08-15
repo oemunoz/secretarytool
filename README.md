@@ -33,7 +33,7 @@ The team leader have to resolve a Pluzze problem and the rest of slaves have to 
 ----
 ### General Funcional Requeriments
 |<sup>	Name	</sup>|<sup>	Notes	</sup>|
-|<sup>	:-------------	</sup>|<sup>	:-------------	</sup>|
+|	:------------- |	:------------- |
 |<sup>	REQ00_00 GENERAL OVERVIEW - SECRETARYTOOL	</sup>|<sup>	Employing a general tool for manage the simulated develop system.	</sup>|
 |<sup>	REQ01_00 MANAGE USERS	</sup>|<sup>	Administrate (Add, Modify,"Delete" and Report) users, and his corresponding certification data. 	</sup>|
 |<sup>	REQ02_00 MANAGE COMPANIES CERTIFICATIONS	</sup>|<sup>	Administrate (Add, Modify, "Delete" and Report) companies, and their certification data.	</sup>|
