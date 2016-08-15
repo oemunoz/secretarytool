@@ -1,5 +1,6 @@
 # SecretaryTool
-SecreatryTool admins a number of develop companies than look for a simulated certification. The levels of certification is represent by a KI.
+
+SecretaryTool admins a number of develop companies than look for a simulated certification. The levels of certification is represent by a KI.
 
 ----
 ## CakePHP
