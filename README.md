@@ -32,13 +32,13 @@ The team leader have to resolve a Pluzze problem and the rest of slaves have to 
 
 ----
 ### General Funcional Requeriments
-|	Name |	Notes |
-|	:------------- |	:------------- |
-| <sup>	REQ00_00 GENERAL OVERVIEW - SECRETARYTOOL	</sup> | <sup>	Employing a general tool for manage the simulated develop system.	</sup> |
-|<sup>	REQ01_00 MANAGE USERS	</sup>|<sup>	Administrate (Add, Modify,"Delete" and Report) users, and his corresponding certification data. 	</sup>|
-|<sup>	REQ02_00 MANAGE COMPANIES CERTIFICATIONS	</sup>|<sup>	Administrate (Add, Modify, "Delete" and Report) companies, and their certification data.	</sup>|
-|<sup>	REQ03_00 MANAGE QUESTIONS	</sup>|<sup>	Administrate (Add,Modify,"Delete" and Report) particular or set of test and pools of questions. 	</sup>|
-|<sup>	REQ04_00 RUN TEST	</sup>|<sup>	Follow a required set of Test.	</sup>|
+|	Name	|	Notes	|
+|	:-------------	|	:-------------	|
+|	REQ00_00 GENERAL OVERVIEW - SECRETARYTOOL	|	Employing a general tool for manage the simulated develop system.	|
+|	REQ01_00 MANAGE USERS	|	Administrate (Add, Modify,"Delete" and Report) users, and his corresponding certification data. 	|
+|	REQ02_00 MANAGE COMPANIES CERTIFICATIONS	|	Administrate (Add, Modify, "Delete" and Report) companies, and their certification data.	|
+|	REQ03_00 MANAGE QUESTIONS	|	Administrate (Add,Modify,"Delete" and Report) particular or set of test and pools of questions. 	|
+|	REQ04_00 RUN TEST	|	Follow a required set of Test.	|
 
 ----
 ## CakePHP
