@@ -8,7 +8,7 @@
 CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
 Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
 
-
+--->
 ## Some Handy Links
 
 [CakePHP](http://www.cakephp.org) - The rapid development PHP framework
@@ -29,7 +29,7 @@ Our primary goal is to provide a structured framework that enables PHP users at 
 
 [Cake Software Foundation](http://cakefoundation.org) - Promoting development related to CakePHP
 
-
+--->
 ## Get Support!
 
 [#cakephp](http://webchat.freenode.net/?channels=#cakephp) on irc.freenode.net - Come chat with us, we have cake
@@ -40,7 +40,7 @@ Our primary goal is to provide a structured framework that enables PHP users at 
 
 [Roadmaps](https://github.com/cakephp/cakephp/wiki#roadmaps) - Want to contribute? Get involved!
 
-
+--->
 ## Contributing
 
 [CONTRIBUTING.md](CONTRIBUTING.md) - Quick pointers for contributing to the CakePHP project
