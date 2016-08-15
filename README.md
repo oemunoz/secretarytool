@@ -12,7 +12,8 @@ SecretaryTool admins a number of develop companies than look for a simulated cer
 
 The IP process dont have previus requeriments.
 
-----
+_
+====
 ### Instant Projects (**IP**)
 
 The team have to resolve problems by Rol.
@@ -20,7 +21,8 @@ The team have to resolve problems by Rol.
  - Develop (**DV**).
  - Tester (**TT**).
 
-----
+ _
+ ====
 ### Bidding Projects (**BP**)
 
 The team leader have to resolve a Pluzze problem and the rest of slaves have to work by rol like **IP**.
