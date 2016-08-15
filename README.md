@@ -34,7 +34,7 @@ The team leader have to resolve a Pluzze problem and the rest of slaves have to 
 ### General Funcional Requeriments
 |	Name	|	Notes	|
 |	:-------------	|	:-------------	|
-|	REQ00_00 GENERAL OVERVIEW - SECRETARYTOOL	|	Employing a general tool for manage the simulated develop system.	|
+|	<sub> REQ00_00 GENERAL OVERVIEW - SECRETARYTOOL </sub>	|	Employing a general tool for manage the simulated develop system.	|
 |	REQ01_00 MANAGE USERS	|	Administrate (Add, Modify,"Delete" and Report) users, and his corresponding certification data. 	|
 |	REQ02_00 MANAGE COMPANIES CERTIFICATIONS	|	Administrate (Add, Modify, "Delete" and Report) companies, and their certification data.	|
 |	REQ03_00 MANAGE QUESTIONS	|	Administrate (Add,Modify,"Delete" and Report) particular or set of test and pools of questions. 	|
