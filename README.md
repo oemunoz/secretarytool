@@ -1,8 +1,6 @@
   # SecretaryTool
   SecreatryTool admins a number of develop companies than look for a simulated certification. The levels of certification is represent by a KI.
 
-  ![DragonBall Ki](https://github.com/oemunoz/secretarytool/blob/master/images/db_1.png)
-
   ----
   ## CakePHP
 
