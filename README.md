@@ -41,6 +41,64 @@ The team leader have to resolve a Pluzze problem and the rest of slaves have to 
 |	REQ03_00 	|	MANAGE QUESTIONS	|
 |	REQ04_00 	|	RUN TEST	|
 
+_
+====
+### Manage Users
+
+|	Name	|	Description	|
+|	:-------------	|	:-------------	|
+|	REQ01_01	|	Login	|
+|	REQ01_02 	|	Import Responder Data	|
+|	REQ01_03	|	Edit User Responder	|
+|	REQ01_04 	|	Generate Password	|
+|	REQ01_05 	|	Add User	|
+|	REQ01_06 	|	Remove User	|
+|	REQ01_07 	|	Report on User Account	|
+|	REQ01_08 	|	Store User Account	|
+
+_
+====
+### Manage Companies Certifications
+
+|	Name	|	Description	|
+|	:-------------	|	:-------------	|
+|	REQ03_01 	|	Develop Test Pool	|
+|	REQ03_02 	|	Add Question	|
+|	REQ03_03 	|	Modify Question	|
+|	REQ03_04 	|	Inactive Question	|
+|	REQ03_05 	|	Aprove Question	|
+|	REQ03_06 	|	Disable Question	|
+|	REQ03_07 	|	Add Question Pool	|
+|	REQ03_08 	|	Modify Question Pool	|
+|	REQ03_09 	|	Remove a Question from Pool	|
+|	REQ03_10 	|	Store Question	|
+|	REQ03_11 	|	Validate Question	|
+
+_
+====
+### Manage Questions
+
+|	Name	|	Description	|
+|	:-------------	|	:-------------	|
+|	REQ04_01 	|	Store Test status	|
+|	REQ04_02 	|	Determine Test settings	|
+|	REQ04_03 	|	Present Question	|
+|	REQ04_04 	|	Validate Answer	|
+|	REQ04_05 	|	Store Answer	|
+|	REQ04_06 	|	ValidateTest Status	|
+|	REQ04_07 	|	Present Results 	|
+
+_
+====
+### Busisnes Rules
+
+|	Name	|	Description	|
+|	:-------------	|	:-------------	|
+|	REQBL_01 	|	Generate Report Any Time	|
+|	REQBL_02 	|	Send Request Email	|
+|	REQBL_03 	|	All Operations Users Must Be Traced	|
+|	REQBL_04 	|	All Test Must be Generated Randomly	|
+|	REQBL_05  	|	Reminder message for non-responders	|
 
 ----
 ## CakePHP
