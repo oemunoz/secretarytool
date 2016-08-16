@@ -101,6 +101,33 @@ _
 |	REQBL_05  	|	Reminder message for non-responders	|
 
 ----
+## Case Uses
+
+|	Name	|	Description	|
+|	:-------------	|	:-------------	|
+|	Case_01 	|	Manage Users	|
+|	Case_02 	|	Manage Questions	|
+|	Case_03 	|	Run Test	|
+
+_
+====
+### Manage Users
+
+![alt tag](https://github.com/oemunoz/secretarytool/raw/master/uml/ManageUsers.png)
+
+_
+====
+### Manage Questions
+
+![alt tag](https://github.com/oemunoz/secretarytool/raw/master/uml/ManageQuestions.png)
+
+_
+====
+### Run Test
+
+![alt tag](https://github.com/oemunoz/secretarytool/raw/master/uml/RunTest.png)
+
+----
 ## CakePHP
 
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)

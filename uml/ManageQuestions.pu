@@ -1,26 +1,26 @@
 @startuml
-title <b>Manage Questions</b>
+title <b>Manage Users</b>
 
-:Responder: as Responder
+:Staff: as Staff
+:Main Admin: as Admin
 
-(Run\nTest) as (Run)
-(Charge\nTest) as (Charge)
-(Present\nQuestion) as (PresentQ)
-(Present\nReport) as (PresentR)
+(Manage\nProfile\nResponder) as (Manage)
+(Import\nProfile\nResponder) as (Import)
+(Edit\nProfile\nResponder) as (Edit)
 
-(Validate\nAnswer) as (ValidateA)
-(Store\nAnswer) as (StoreA)
+(Manage\nUser) as (ManageU)
+(Add\nUser) as (AddU)
+(Edit\nUser) as (EditU)
 
-User <|-- Responder
+User <|-- Staff
+Staff <|-- Admin
 User -> (Login)
+Staff -> (Manage)
+(Manage) <. (Edit): extends
+(Manage) <. (Import): extends
 
-Responder -> (Run)
-(Run) <. (Charge): extends
-(Run) <. (PresentQ): extends
-(Run) <. (PresentR): extends
-
-(PresentQ) <. (ValidateA): extends
-(PresentQ) <. (StoreA): extends
-
+Admin -> (ManageU)
+(ManageU) <. (EditU): extends
+(ManageU) <. (AddU): extends
 
 @enduml
