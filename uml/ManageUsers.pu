@@ -1,0 +1,26 @@
+@startuml
+title <b>Manage Users</b>
+
+:Staff: as Staff
+:Main Admin: as Admin
+
+(Manage\nProfile\nResponder) as (Manage)
+(Import\nProfile\nResponder) as (Import)
+(Edit\nProfile\nResponder) as (Edit)
+
+(Manage\nUser) as (ManageU)
+(Add\nUser) as (AddU)
+(Edit\nUser) as (EditU)
+
+User <|-- Staff
+Staff <|-- Admin
+User -> (Login)
+Staff -> (Manage)
+(Manage) <. (Edit): extends
+(Manage) <. (Import): extends
+
+Admin -> (ManageU)
+(ManageU) <. (EditU): extends
+(ManageU) <. (AddU): extends
+
+@enduml

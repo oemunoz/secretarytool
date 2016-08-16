@@ -1,0 +1,26 @@
+@startuml
+title <b>Run Test</b>
+
+:Responder: as Responder
+
+(Run\nTest) as (Run)
+(Charge\nTest) as (Charge)
+(Present\nQuestion) as (PresentQ)
+(Present\nReport) as (PresentR)
+
+(Validate\nAnswer) as (ValidateA)
+(Store\nAnswer) as (StoreA)
+
+User <|-- Responder
+User -> (Login)
+
+Responder -> (Run)
+(Run) <. (Charge): extends
+(Run) <. (PresentQ): extends
+(Run) <. (PresentR): extends
+
+(PresentQ) <. (ValidateA): extends
+(PresentQ) <. (StoreA): extends
+
+
+@enduml
