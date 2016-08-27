@@ -1,11 +1,12 @@
-# SecretaryTool
+# SecretaryTool #
 
 SecretaryTool admins a number of develop companies than look for a simulated certification. The levels of certification is represent by a KI.
 
 ![alt tag](https://github.com/oemunoz/secretarytool/raw/master/images/db_1.png)
 
 ----
-## How my enterprise get certifications?
+
+## How my enterprise get certifications? ##
 
  - Instant Projects (**IP**).
  - Bidding Projects (**BP**).
@@ -14,6 +15,7 @@ The IP process dont have previus requeriments.
 
 _
 ====
+
 ### Instant Projects (**IP**)
 
 The team have to resolve problems by Rol.
@@ -23,6 +25,7 @@ The team have to resolve problems by Rol.
 
 _
 ====
+
 ### Bidding Projects (**BP**)
 
 The team leader have to resolve a Pluzze problem and the rest of slaves have to work by rol like **IP**.
@@ -31,6 +34,7 @@ The team leader have to resolve a Pluzze problem and the rest of slaves have to 
   - Tester (**TT**).
 
 ----
+
 ### General Funcional Requeriments
 
 |	Name	|	Description	|
@@ -43,6 +47,7 @@ The team leader have to resolve a Pluzze problem and the rest of slaves have to 
 
 _
 ====
+
 ### Manage Users
 
 |	Name	|	Description	|
@@ -58,6 +63,7 @@ _
 
 _
 ====
+
 ### Manage Companies Certifications
 
 |	Name	|	Description	|
@@ -76,6 +82,7 @@ _
 
 _
 ====
+
 ### Manage Questions
 
 |	Name	|	Description	|
@@ -90,6 +97,7 @@ _
 
 _
 ====
+
 ### Busisnes Rules
 
 |	Name	|	Description	|
@@ -101,6 +109,7 @@ _
 |	REQBL_05  	|	Reminder message for non-responders	|
 
 ----
+
 ## Case Uses
 
 |	Name	|	Description	|
@@ -111,23 +120,27 @@ _
 
 _
 ====
+
 ### Manage Users
 
 ![alt tag](https://github.com/oemunoz/secretarytool/raw/master/uml/ManageUsers.png)
 
 _
 ====
+
 ### Manage Questions
 
 ![alt tag](https://github.com/oemunoz/secretarytool/raw/master/uml/ManageQuestions.png)
 
 _
 ====
+
 ### Run Test
 
 ![alt tag](https://github.com/oemunoz/secretarytool/raw/master/uml/RunTest.png)
 
 ----
+
 ## CakePHP
 
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)
@@ -140,6 +153,7 @@ Our primary goal is to provide a structured framework that enables PHP users at 
 
 _
 ====
+
 ### Some Handy Links
 
 [CakePHP](http://www.cakephp.org) - The rapid development PHP framework
@@ -154,6 +168,7 @@ _
 
 _
 ====
+
 ### Get Support!
 
 [#cakephp](http://webchat.freenode.net/?channels=#cakephp) on irc.freenode.net - Come chat with us, we have cake
@@ -163,6 +178,7 @@ _
 
 _
 ====
+
 ### Contributing
 
 [CONTRIBUTING.md](CONTRIBUTING.md) - Quick pointers for contributing to the CakePHP project
